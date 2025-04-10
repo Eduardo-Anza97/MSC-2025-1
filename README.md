@@ -10,3 +10,5 @@ También podrás explorar contenido adicional que podría interesarte.
 ![Logo IMA-PUCV](http://static.ima.ucv.cl.s3.amazonaws.com/wp-content/uploads/2020/01/header-IMA-2020-2.png)
 
 En el curso de Programación Avanzada utilizamos lenguaje Python.
+
+La mayoría de las veces trabajamos en Google Colab #comentar rama nueva
